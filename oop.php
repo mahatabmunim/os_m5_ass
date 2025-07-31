@@ -1,6 +1,5 @@
 <?php
 
-
 class Book {
     private $title;
     private $availableCopies;
